@@ -10,7 +10,7 @@ I will work politely and quickly, communicate kindly.
 責任感を持ち、常に正直であるよう心がけております。
 お気軽にご連絡ください。
 
-There is benefit in every kind of hard work,
+There is benefit in every kind of hard work.(Proverbs 14:23)
 
 <!---
 AK-dot-com/AK-dot-com is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
