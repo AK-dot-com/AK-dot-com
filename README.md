@@ -1,16 +1,43 @@
-- 👋 Hi, I’m @AK-dot-com
-- I am a native Japanese speaker.
-- 🌱 I’m currently learning Wordpress PHP JS ets
-- 
-- 📫 How to reach me ...email akito.5884.5369@gmail.com
+# AK_dot_com
+Web制作・フロントエンドコーディングを中心に活動しています。
 
-I will work politely and quickly, communicate kindly.
+HTML / CSS / JavaScriptを用いたWebサイト制作、
+WordPressサイトの運用・改修、動画編集などに取り組んでいます。
 
-駆け出しエンジニアで学習意欲に溢れています。
-責任感を持ち、常に正直であるよう心がけております。
-お気軽にご連絡ください。
+## About
 
-There is benefit in every kind of hard work.(Proverbs 14:23)
+Webライターとして3年以上の実務経験があります。
+クライアントとの継続的なやり取りを通じて、
+要件確認や納期管理、品質管理を大切にしてきました。
+
+また、サイト運用やサーバー移行、HTML/CSSによる修正対応など、
+Web制作領域にも業務範囲を広げています。
+
+# Skills
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
+
+### CMS
+- WordPress
+- Joomla
+
+### Other
+- Git / GitHub
+- Figma
+- Photoshop
+- Video Editing
+
+# Portfolio
+https://ak-dot-com.github.io/portfolio_AK_dot_com/
+https://youtube.com/@psplus_hakkutsu?si=q5x1UUSF2LppCxRq
+
+## Contact
+お仕事のご相談・お問い合わせは下記までお願いいたします。
+Email:psplus.hakkutsu@gmail.com
 
 <!---
 AK-dot-com/AK-dot-com is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
