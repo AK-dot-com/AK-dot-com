@@ -32,8 +32,8 @@ Web制作領域にも業務範囲を広げています。
 - Video Editing
 
 # Portfolio
-https://ak-dot-com.github.io/portfolio_AK_dot_com/
-https://youtube.com/@psplus_hakkutsu?si=q5x1UUSF2LppCxRq
+- https://ak-dot-com.github.io/portfolio_AK_dot_com/
+- https://youtube.com/@psplus_hakkutsu?si=q5x1UUSF2LppCxRq
 
 ## Contact
 お仕事のご相談・お問い合わせは下記までお願いいたします。
